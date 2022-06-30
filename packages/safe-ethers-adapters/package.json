@@ -78,7 +78,7 @@
     "@ethersproject/properties": "^5.5.0"
   },
   "dependencies": {
-    "@gnosis.pm/safe-core-sdk": "https://gitpkg.now.sh/api/pkg?url=etclabscore/safe-core-sdk/packages/safe-core-sdk&commit=feat/etc",
+    "@gnosis.pm/safe-core-sdk": "https://gitpkg.now.sh/pkg?url=etclabscore/safe-core-sdk/packages/safe-core-sdk&commit=feat%2Fetc",
     "@gnosis.pm/safe-core-sdk-types": "^1.1.0",
     "@gnosis.pm/safe-deployments": "https://github.com/etclabscore/safe-deployments#feat/etc-chains",
     "axios": "^0.26.1"
