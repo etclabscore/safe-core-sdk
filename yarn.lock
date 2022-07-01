@@ -826,9 +826,9 @@
   resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-contracts/-/safe-contracts-1.3.0.tgz#316741a7690d8751a1f701538cfc9ec80866eedc"
   integrity sha512-1p+1HwGvxGUVzVkFjNzglwHrLNA67U/axP0Ct85FzzH8yhGJb4t9jDjPYocVMzLorDoWAfKicGy1akPY9jXRVw==
 
-"@gnosis.pm/safe-core-sdk@https://gitpkg.now.sh/etclabscore/safe-core-sdk/packages/safe-core-sdk?feat/etc":
+"@gnosis.pm/safe-core-sdk@https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk?feat/etc":
   version "2.1.0"
-  resolved "https://gitpkg.now.sh/etclabscore/safe-core-sdk/packages/safe-core-sdk?feat/etc#2c0b7fd37ca042d9cf83fab1b995c3bea7832744"
+  resolved "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk?feat/etc#609bcd52d0ba0175ace2c14a440ae2c1a7deb2e23fd52cd71454278703e31a04c73fd0bc93ad680e351e5905d3ff9839f8a07f1d9b29f952ab28d48bc743d920"
   dependencies:
     "@ethersproject/solidity" "^5.6.0"
     "@gnosis.pm/safe-core-sdk-types" "^1.1.0"
