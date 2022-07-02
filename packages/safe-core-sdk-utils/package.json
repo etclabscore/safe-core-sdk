@@ -51,7 +51,7 @@
     "typescript": "^4.6.3"
   },
   "dependencies": {
-    "@gnosis.pm/safe-core-sdk-types": "^1.1.0",
+    "@gnosis.pm/safe-core-sdk-types": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk=types?feat/etc",
     "web3-utils": "^1.7.1"
   }
 }
