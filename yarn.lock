@@ -826,6 +826,28 @@
   resolved "https://registry.yarnpkg.com/@gnosis.pm/safe-contracts/-/safe-contracts-1.3.0.tgz#316741a7690d8751a1f701538cfc9ec80866eedc"
   integrity sha512-1p+1HwGvxGUVzVkFjNzglwHrLNA67U/axP0Ct85FzzH8yhGJb4t9jDjPYocVMzLorDoWAfKicGy1akPY9jXRVw==
 
+"@gnosis.pm/safe-core-sdk-types@https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-types?feat/etc":
+  version "1.1.0"
+  uid "0388b3f4633a24abc67094b93a93ba3072a68be6"
+  resolved "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-types?feat/etc#0388b3f4633a24abc67094b93a93ba3072a68be6"
+  dependencies:
+    "@ethersproject/bignumber" "^5.6.0"
+    "@ethersproject/contracts" "^5.6.0"
+    "@gnosis.pm/safe-deployments" "https://github.com/etclabscore/safe-deployments#feat/etc-chains"
+    web3-core "^1.7.1"
+
+"@gnosis.pm/safe-core-sdk-types@https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk=types?feat/etc":
+  version "0.0.0"
+  resolved "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk=types?feat/etc#aa27f39a547726f9f7afd043711756ae57a5feb8"
+
+"@gnosis.pm/safe-core-sdk-utils@https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-utils?feat/etc":
+  version "1.1.0"
+  uid "8b0b27d2c532b24e7a4f740eee13f6d0d52568f5"
+  resolved "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-utils?feat/etc#8b0b27d2c532b24e7a4f740eee13f6d0d52568f5"
+  dependencies:
+    "@gnosis.pm/safe-core-sdk-types" "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk=types?feat/etc"
+    web3-utils "^1.7.1"
+
 "@gnosis.pm/safe-core-sdk@https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk?feat/etc":
   version "2.1.0"
   resolved "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk?feat/etc#609bcd52d0ba0175ace2c14a440ae2c1a7deb2e23fd52cd71454278703e31a04c73fd0bc93ad680e351e5905d3ff9839f8a07f1d9b29f952ab28d48bc743d920"

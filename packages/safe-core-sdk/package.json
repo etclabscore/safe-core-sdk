@@ -24,7 +24,7 @@
     "coverage": "nyc report --reporter=text-lcov | coveralls",
     "format": "prettier --write \"{src,tests,hardhat,scripts}/**/*.ts\"",
     "lint": "tslint -p tsconfig.json",
-    "prepare": "yarn build --skip-integrity-check"
+    "prepare": "yarn build"
   },
   "repository": {
     "type": "git",
