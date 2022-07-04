@@ -78,9 +78,9 @@
     "@ethersproject/properties": "^5.5.0"
   },
   "dependencies": {
-    "@gnosis.pm/safe-core-sdk": "^2.1.0",
-    "@gnosis.pm/safe-core-sdk-types": "^1.1.0",
-    "@gnosis.pm/safe-deployments": "^1.12.0",
+    "@gnosis.pm/safe-core-sdk": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk?feat/etc-tag",
+    "@gnosis.pm/safe-core-sdk-types": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-types?feat/etc-tag",
+    "@gnosis.pm/safe-deployments": "https://github.com/etclabscore/safe-deployments#feat/etc-chains",
     "axios": "^0.26.1"
   }
 }

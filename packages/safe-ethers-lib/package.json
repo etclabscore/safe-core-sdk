@@ -50,8 +50,8 @@
     "typescript": "^4.6.3"
   },
   "dependencies": {
-    "@gnosis.pm/safe-core-sdk-types": "^1.1.0",
-    "@gnosis.pm/safe-core-sdk-utils": "^1.1.0"
+    "@gnosis.pm/safe-core-sdk-types": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-types?feat/etc-tag",
+    "@gnosis.pm/safe-core-sdk-utils": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-utils?feat/etc-tag"
   },
   "peerDependencies": {
     "ethers": "^5.5.3"
