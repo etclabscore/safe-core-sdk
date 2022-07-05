@@ -80,7 +80,7 @@
   "dependencies": {
     "@gnosis.pm/safe-core-sdk": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk?feat/etc-tag",
     "@gnosis.pm/safe-core-sdk-types": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-types?feat/etc-tag",
-    "@gnosis.pm/safe-deployments": "https://github.com/etclabscore/safe-deployments?feat/etc-chains",
+    "@gnosis.pm/safe-deployments": "https://github.com/etclabscore/safe-deployments#feat/etc-chains",
     "axios": "^0.26.1"
   }
 }

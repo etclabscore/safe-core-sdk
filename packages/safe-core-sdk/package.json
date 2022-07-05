@@ -90,7 +90,7 @@
   "dependencies": {
     "@ethersproject/solidity": "^5.6.0",
     "@gnosis.pm/safe-core-sdk-types": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-types?feat/etc-tag",
-    "@gnosis.pm/safe-deployments": "https://github.com/etclabscore/safe-deployments?feat/etc-chains",
+    "@gnosis.pm/safe-deployments": "https://github.com/etclabscore/safe-deployments#feat/etc-chains",
     "ethereumjs-util": "^7.1.4",
     "semver": "^7.3.5",
     "web3-utils": "^1.7.1"
