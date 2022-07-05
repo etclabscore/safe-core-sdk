@@ -32,7 +32,7 @@
   ],
   "homepage": "https://github.com/gnosis/safe-core-sdk#readme",
   "devDependencies": {
-    "@gnosis.pm/safe-deployments": "https://gitpkg.vercel.app/etclabscore/safe-deployments?feat/etc-chains&scripts.postinstall=yarn%20install%20--ignore-scripts%20%26%26%20yarn%20run%20build",
+    "@gnosis.pm/safe-deployments": "https://github.com/etclabscore/safe-deployments?feat/etc-chains",
     "@types/chai": "^4.3.0",
     "@types/chai-as-promised": "^7.1.5",
     "@types/mocha": "^9.1.0",
