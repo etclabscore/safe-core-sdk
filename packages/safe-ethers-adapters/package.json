@@ -79,7 +79,7 @@
   },
   "dependencies": {
     "@gnosis.pm/safe-core-sdk": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk?feat/etc-tag",
-    "@gnosis.pm/safe-core-sdk-types": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-types?feat/etc-tag",
+    "@gnosis.pm/safe-core-sdk-types": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-types?feat/etc-tag&scripts.postinstall=yarn%20install%20--ignore-scripts%20%26%26%20yarn%20run%20build",
     "@gnosis.pm/safe-deployments": "https://github.com/etclabscore/safe-deployments#feat/etc-chains",
     "axios": "^0.26.1"
   }
