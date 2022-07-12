@@ -27,4 +27,4 @@ function checkConfigDiff() {
   }
 }
 
-checkConfigDiff()
+// checkConfigDiff()
