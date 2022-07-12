@@ -13,7 +13,7 @@ const outDirTests = 'typechain/tests/'
 
 // Contract list for which the Typechain files will be generated
 // Will be included in dist/ folder
-const safeContractsPath = './node_modules/@gnosis.pm/safe-deployments/dist/assets'
+const safeContractsPath = '../../node_modules/@gnosis.pm/safe-deployments/dist/assets'
 
 const safeContracts_V1_3_0 = [
   `${safeContractsPath}/v1.3.0/gnosis_safe.json`,
@@ -28,8 +28,8 @@ const safeContracts_V1_1_1 = [
 ].join(' ')
 
 // Won't be included in dist/ folder
-const safeContractsTestPath = './node_modules/@gnosis.pm/safe-contracts-v1.2.0/build/contracts'
-const openZeppelinContractsPath = './node_modules/openzeppelin-solidity/build/contracts'
+const safeContractsTestPath = '../../node_modules/@gnosis.pm/safe-contracts-v1.2.0/build/contracts'
+const openZeppelinContractsPath = '../../node_modules/openzeppelin-solidity/build/contracts'
 const testContracts = [
   `${safeContractsTestPath}/DailyLimitModule.json`,
   `${safeContractsTestPath}/SocialRecoveryModule.json`,
