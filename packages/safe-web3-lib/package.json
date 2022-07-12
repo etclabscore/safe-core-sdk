@@ -51,13 +51,8 @@
     "typescript": "^4.6.3"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@gnosis.pm/safe-core-sdk-types": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-types?feat/etc-tag&scripts.postinstall=yarn%20install%20--ignore-scripts%20%26%26%20yarn%20run%20build",
     "@gnosis.pm/safe-core-sdk-utils": "https://gitpkg.vercel.app/etclabscore/safe-core-sdk/packages/safe-core-sdk-utils?feat/etc-tag&scripts.postinstall=yarn%20install%20--ignore-scripts%20%26%26%20yarn%20run%20build"
-=======
-    "@gnosis.pm/safe-core-sdk-types": "^1.2.0",
-    "@gnosis.pm/safe-core-sdk-utils": "^1.2.0"
->>>>>>> main
   },
   "peerDependencies": {
     "web3": "^1.7.0"
